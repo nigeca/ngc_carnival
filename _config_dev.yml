@@ -1,0 +1,16 @@
+title: Nicolas Gendron-Carrier
+author: Nicolas Gendron-Carrier
+
+url: "http://localhost:4000"
+
+baseurl: ""
+
+description: "Nicolas Gendron-Carrier is a PhD candidate in Economics at the University of Toronto. His research interests are in labour economics and urban economics."
+
+markdown: kramdown
+
+tracking_id: UA-69692111-2
+
+sass:
+    style: compressed
+    sass_dir: _sass
